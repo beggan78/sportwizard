@@ -1,0 +1,15 @@
+{
+  "short_name": "DIF F2016-6",
+  "name": "Coach F2016-6 DIF",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

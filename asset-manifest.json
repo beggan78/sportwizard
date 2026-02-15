@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "https://sportwizard.se/static/css/main.d7ee71b5.css",
+    "main.js": "https://sportwizard.se/static/js/main.22bbc86e.js",
+    "static/media/full-field-perspective.png": "https://sportwizard.se/static/media/full-field-perspective.491cc468e78065fb33e7.png",
+    "static/media/full-field.png": "https://sportwizard.se/static/media/full-field.c9950099811218943f1a.png",
+    "static/media/mixkit-magic-notification-ring-2344.wav": "https://sportwizard.se/static/media/mixkit-magic-notification-ring-2344.967413f5ea50b2bf51ac.wav",
+    "static/media/mixkit-alert-bells-echo-765.wav": "https://sportwizard.se/static/media/mixkit-alert-bells-echo-765.15ded8cd4ae5bc50940e.wav",
+    "static/media/mixkit-uplifting-flute-notification-2317.wav": "https://sportwizard.se/static/media/mixkit-uplifting-flute-notification-2317.df9fcaa1a84c2834e1c5.wav",
+    "static/media/mixkit-clear-announce-tones-2861.wav": "https://sportwizard.se/static/media/mixkit-clear-announce-tones-2861.37a86cf8dab0bb4ad46a.wav",
+    "static/media/half-field.png": "https://sportwizard.se/static/media/half-field.564011ece33866e0126b.png",
+    "static/media/mixkit-arabian-mystery-harp-notification-2489.wav": "https://sportwizard.se/static/media/mixkit-arabian-mystery-harp-notification-2489.7e3b4cec1ea193998233.wav",
+    "static/media/mixkit-magic-marimba-2820.wav": "https://sportwizard.se/static/media/mixkit-magic-marimba-2820.4f3a8de8f96baa96756a.wav",
+    "static/media/mixkit-happy-bells-notification-937.wav": "https://sportwizard.se/static/media/mixkit-happy-bells-notification-937.72d5668f672aa6c30075.wav",
+    "static/media/mixkit-positive-notification-951.wav": "https://sportwizard.se/static/media/mixkit-positive-notification-951.60f7268a006d7476452e.wav",
+    "static/media/mixkit-alert-quick-chime-766.wav": "https://sportwizard.se/static/media/mixkit-alert-quick-chime-766.11acdad11362f71ed168.wav",
+    "static/media/myClub-250-80.png": "https://sportwizard.se/static/media/myClub-250-80.8ab0b991a1bf68111605.png",
+    "static/media/svenskalag-250-80.png": "https://sportwizard.se/static/media/svenskalag-250-80.d5a3d1c30942fe839ef5.png",
+    "static/media/sportAdmin-250-80.png": "https://sportwizard.se/static/media/sportAdmin-250-80.dfeaf9e9a61cc94a466f.png",
+    "index.html": "https://sportwizard.se/index.html",
+    "main.d7ee71b5.css.map": "https://sportwizard.se/static/css/main.d7ee71b5.css.map",
+    "main.22bbc86e.js.map": "https://sportwizard.se/static/js/main.22bbc86e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7ee71b5.css",
+    "static/js/main.22bbc86e.js"
+  ]
+}
